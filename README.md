@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋,  I'm Steve
+Agile software craftsman.  
+Enabling continuous integration and continuous delivery practice.  
 
-[![Author: Steve](https://img.shields.io/badge/I'm-Steven_Lewi-gggddd.svg)](https://resume.io/r/yPRN5Nkai) 
-
-Agile Software Craftsman. Enabling Continuous Integration and Continuous Delivery practice.
-
+#### My GitHub Stats:
 ![Steve's github stats](https://github-readme-stats-virid-iota.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=vue-dark)  
 [![Top Langs](https://github-readme-stats-virid-iota.vercel.app/api/top-langs/?username=fenli&layout=compact&theme=vue-dark&exclude_repo=github-readme-stats)](https://github.com/fenli/github-readme-stats)
 <br>
