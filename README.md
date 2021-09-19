@@ -4,8 +4,8 @@
 
 Agile Software Craftsman. Enabling Continuous Integration and Continuous Delivery practice.
 
-![Steve's github stats](https://github-readme-stats.vercel.app/api?username=fenli&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenli&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/fenli/github-readme-stats)
+![Steve's github stats](https://github-readme-stats-virid-iota.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=vue)  
+[![Top Langs](https://github-readme-stats-virid-iota.vercel.app/api/top-langs/?username=fenli&layout=compact&theme=vue&exclude_repo=github-readme-stats)](https://github.com/fenli/github-readme-stats)
 <br>
 
 #### My Tech Stack:
