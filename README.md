@@ -4,7 +4,7 @@ Enabling continuous integration and continuous delivery practice.
 
 #### My GitHub Stats:
 ![Steve's github stats](https://github-readme-stats-virid-iota.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=vue-dark)  
-[![Top Langs](https://github-readme-stats-virid-iota.vercel.app/api/top-langs/?username=fenli&layout=compact&theme=vue-dark&exclude_repo=github-readme-stats)](https://github.com/fenli/github-readme-stats)
+[![Top Langs](https://github-readme-stats-virid-iota.vercel.app/api/top-langs/?username=fenli&layout=compact&theme=vue-dark&exclude_repo=github-readme-stats,vc-embed)](https://github.com/fenli/github-readme-stats)
 <br>
 
 #### My Tech Stack:
