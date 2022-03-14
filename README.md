@@ -25,6 +25,3 @@ Enabling continuous integration and continuous delivery practice.
 <p>
 <a href="https://github.com/fenli"><img alt="github URL" src="https://img.shields.io/twitter/url?label=fenli&logo=github&logoColor=black&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
 <a href="mailto:me@fenli.id"><img alt="Mailto" src="https://img.shields.io/twitter/url?label=E-mail&logo=gmail&style=social&url=https%3A%2F%2Fsteve" height="25"></a>
-<a href="https://www.linkedin.com/in/stevenlewi"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Steven Lewi&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstevenlewi" height="25">
-<a href="https://resume.io/r/yPRN5Nkai"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.io&logo=r&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
-
