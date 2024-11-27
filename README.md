@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Steve
 Agile software craftsman.  
-Enabling continuous integration and continuous delivery practice.  
+Expert in mobile apps development.  
 
 #### My GitHub Stats:
 ![Steve's github stats](https://github-readme-stats-virid-iota.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=vue-dark)  
@@ -9,9 +9,10 @@ Enabling continuous integration and continuous delivery practice.
 
 #### My Tech Stack:
 <p>
-<img src="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/swift%20-%23E55B40.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/java%20-%23DB2F21.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/kotlin%20-%2343853D.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
-<img src="https://img.shields.io/badge/bash-%23000000.svg?&style=for-the-badge&logo=bash&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/bash-%23303030.svg?&style=for-the-badge&logo=bash&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/gitlab%20ci%20-%23CCCCCC.svg?&style=for-the-badge&logo=gitlab&logoColor=black"/> 
 <img src="https://img.shields.io/badge/github%20actions-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
