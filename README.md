@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Steve
-Agile software craftsman.  
-Expert in mobile apps development.  
+- Agile software craftsman.  
+- Focusing on native mobile apps development, both Android and iOS.
 
 #### My GitHub Stats:
 ![Steve's github stats](https://github-readme-stats-virid-iota.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=vue-dark)  
@@ -22,7 +22,9 @@ Expert in mobile apps development.
 <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=darkblue" />
 </p>
 
-#### Find me on:
-<p>
-<a href="https://github.com/fenli"><img alt="github URL" src="https://img.shields.io/twitter/url?label=fenli&logo=github&logoColor=black&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
-<a href="mailto:me@fenli.id"><img alt="Mailto" src="https://img.shields.io/twitter/url?label=E-mail&logo=gmail&style=social&url=https%3A%2F%2Fsteve" height="25"></a>
+#### Support:
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.paypal.com/ncp/payment/AW5VX3YV9C6QJ)
+
+#### Visitors:
+ ![Visitor Count](https://profile-counter.glitch.me/{fenli}/count.svg)
+ 
