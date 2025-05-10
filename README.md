@@ -3,9 +3,8 @@
 - Focusing on native mobile apps development, both Android and iOS.
 
 #### My GitHub Stats:
-![Steve's github stats](https://github-readme-stats-virid-iota.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=vue-dark)  
-[![Top Langs](https://github-readme-stats-virid-iota.vercel.app/api/top-langs/?username=fenli&layout=compact&theme=vue-dark&exclude_repo=github-readme-stats,vc-embed)](https://github.com/fenli/github-readme-stats)
-<br>
+| <a href="https://github-readme-stats-fenli.vercel.app"><img align="center" src="https://github-readme-stats-fenli.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=graywhite&hide_border=true" alt="Steve's github stats" /></a> | <a href="https://github-readme-stats-fenli.vercel.app"><img align="center" src="https://github-readme-stats-fenli.vercel.app/api/top-langs/?username=fenli&layout=compact&theme=graywhite&hide_border=true&exclude_repo=github-readme-stats,vc-embed" /></a> |
+| ------------- | ------------- |
 
 #### My Tech Stack:
 <p>
