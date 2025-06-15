@@ -22,7 +22,7 @@
 </p>
 
 #### Support:
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](coff.ee/stevenlewi)
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://coff.ee/stevenlewi)
 
 #### Visitors:
  ![Visitor Count](https://profile-counter.glitch.me/{fenli}/count.svg)
