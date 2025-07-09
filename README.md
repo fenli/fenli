@@ -35,5 +35,5 @@ Hi there 👋,  I'm Steve. I am an agile software craftsman. I love writing clea
 <a href="https://coff.ee/stevenlewi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 170px !important;" ></a>
 
 #### Visitors:
- ![Visitor Count](https://profile-counter.glitch.me/{fenli}/count.svg)
+ ![Visitor Count](https://komarev.com/ghpvc/?username=fenli)
  
