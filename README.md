@@ -6,7 +6,6 @@ I also provide Mobile Apps Development and Training services for you, your team,
 <div>
   <a href="https://www.linkedin.com/in/stevenlewi/" target="_blank"><img src="https://github.com/user-attachments/assets/a19097cd-4a82-4db1-bdd2-1bfd3853c1ed" title="Linkedin" alt="Linkedin" width="40" height="40"/></a>&nbsp;
   <a href="mailto:me@stevenlewi.id" target="_blank"><img src="https://github.com/user-attachments/assets/e2ca42b2-c74c-4160-af44-8094a7aa0941" title="Email" alt="Email" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.fiverr.com/fenlis_project/build-enterprise-grade-ios-app" target="_blank"><img src="https://github.com/user-attachments/assets/ee738f4e-caf7-4424-90a0-6dd58fcada51" title="Fiverr" alt="Fiverr" width="40" height="40"/></a>&nbsp;
   <a href="https://www.upwork.com/services/product/development-it-an-enterprise-grade-ios-app-1861642139621914834?ref=project_share" target="_blank"><img src="https://github.com/user-attachments/assets/fb7d64ea-349a-494e-9704-ea010b99212a" title="Upwork" alt="Upwork" width="40" height="40"/></a>&nbsp;
 </div>
 
