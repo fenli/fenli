@@ -1,6 +1,16 @@
 #### About Me:
 Hi there 👋,  I'm Steve. I am an agile software craftsman. I love writing clean code that easier to read and maintain by myself and my colleagues. Currently, I am focusing on native mobile apps development, both Android (Kotlin) and iOS (Swift + SwiftUI).
 
+I also provide Mobile Apps Development and Training services for you, your team, or your company to accelerate your product digitalization through mobile first solution. Connect with me with of these platform and discuss further:
+
+<div>
+  <a href="https://www.linkedin.com/in/stevenlewi/" target="_blank"><img src="https://github.com/user-attachments/assets/a19097cd-4a82-4db1-bdd2-1bfd3853c1ed" title="Linkedin" alt="Linkedin" width="40" height="40"/></a>&nbsp;
+  <a href="mailto:me@stevenlewi.id" target="_blank"><img src="https://github.com/user-attachments/assets/e2ca42b2-c74c-4160-af44-8094a7aa0941" title="Email" alt="Email" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.fiverr.com/fenlis_project/build-enterprise-grade-ios-app" target="_blank"><img src="https://github.com/user-attachments/assets/ee738f4e-caf7-4424-90a0-6dd58fcada51" title="Fiverr" alt="Fiverr" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.upwork.com/services/product/development-it-an-enterprise-grade-ios-app-1861642139621914834?ref=project_share" target="_blank"><img src="https://github.com/user-attachments/assets/fb7d64ea-349a-494e-9704-ea010b99212a" title="Upwork" alt="Upwork" width="40" height="40"/></a>&nbsp;
+</div>
+
+
 #### My GitHub Stats:
 | <a href="https://github-readme-stats-fenli.vercel.app"><img align="center" src="https://github-readme-stats-fenli.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=graywhite&hide_border=true" alt="Steve's github stats" /></a> | <a href="https://github-readme-stats-fenli.vercel.app"><img align="center" src="https://github-readme-stats-fenli.vercel.app/api/top-langs/?username=fenli&layout=compact&theme=graywhite&hide_border=true&exclude_repo=github-readme-stats,vc-embed" /></a> |
 | ------------- | ------------- |
