@@ -48,6 +48,8 @@ Hi there 👋,  I'm Steve. I am an agile software craftsman. I love writing clea
 </div>
 
 #### Support:
-<a href="https://coff.ee/stevenlewi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 170px !important;" ></a>
+<a href="https://coff.ee/stevenlewi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 170px !important;" ></a>&nbsp;
+<a href="https://www.paypal.com/ncp/payment/AW5VX3YV9C6QJ" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Buy Me A Coffee on PayPal" style="height: 40px !important;" ></a>&nbsp;
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=fenli&style=pixel)
