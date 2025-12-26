@@ -4,6 +4,7 @@
   <a href="https://kotlinxswift.substack.com/" target="_blank"><img alt="Substack" src="https://img.shields.io/badge/substack-KotlinxSwift-orange?logo=substack&logoColor=white"></a>
   <a href="https://medium.com/@fenli" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-@fenli-darkgreen?logo=medium&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=fenli&label=Profile%20views&color=yellow" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/fenli?style=badge&label=Stars&logo=github&color=orange" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/fenli?style=badge&label=Followers&logo=github" alt="GitHub followers" />
 </p>
 
@@ -72,6 +73,3 @@ If you do like my works, you can support what I am doing and it's really appreci
 ### My GitHub Stats:
 | <a href="https://github-readme-stats-fenli.vercel.app"><img align="center" src="https://github-readme-stats-fenli.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=graywhite&hide_border=true" alt="Steve's github stats" /></a> | <a href="https://github-readme-stats-fenli.vercel.app"><img align="center" src="https://github-readme-stats-fenli.vercel.app/api/top-langs/?username=fenli&layout=compact&theme=graywhite&hide_border=true&exclude_repo=github-readme-stats,vc-embed" /></a> |
 | ------------- | ------------- |
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=fenli&style=pixel)
