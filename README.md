@@ -18,12 +18,13 @@ I am an agile software craftsman. I love writing clean code that easier to read 
 ---
 ### My Services:
 I also providing these services  for you, your team, or your company to accelerate your product digitalization through mobile first solution. 
-- 🌟 Native Android Apps Development with Kotlin + Jetpack Compose
-- 🌟 Native iOS Apps Development with Swift + SwiftUI
-- 🌟 Multiplatform Apps Development with KMP + CMP
-- 🌟 Mobile Apps Development Bootcamp and Code Review Session
+- 🤖 Native Android Apps Development with Kotlin + Jetpack Compose
+-  Native iOS Apps Development with Swift + SwiftUI
+- 📱 Multiplatform Apps Development with KMP + CMP
+- 🎓 Mobile Apps Development Bootcamp
+- 🧐 Live Code Review Session (Kotlin, Swift)
 
-Connect with me with one of these platforms and discuss further:
+📨 Message me via one of these platforms and discuss further:
 <div>
   <a href="https://wa.me/6285717788177" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" title="WhatsApp" alt="WhatsApp" width="40" height="40"/></a>&nbsp;
   <a href="https://calendly.com/steven-stevenlewi/30min" target="_blank"><img src="https://i2.wp.com/miro.medium.com/max/2400/1*Ozlc9YSkQHIhK0WCJuAIQA.png" title="Calendly" alt="Calendly" width="40" height="40"/></a>&nbsp;
