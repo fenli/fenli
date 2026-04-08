@@ -12,15 +12,15 @@
 ### About Me:
 I am an agile software craftsman. I love writing clean code that easier to read and maintain by myself and my colleagues. Currently, I am focusing on native mobile apps development, both Android and iOS.
 - 🔭 **Current Learning and Development:** Multiplatform App development with Kotlin (KMP) and Swift (Swift for Android).
-- ✍️ **Writing (Blog):** [Personal Blog](https://medium.com/@fenli).
+- ✍️ **Writing (Blog):** [Personal Blog](https://blog.stevenlewi.id).
 - 📚 **Publication (Book):** [Branchless Development](https://leanpub.com/branchless-development/) (LeanPub, WIP).
 - 👨‍🎓 **Education:** B.Eng., Electrical Engineering, [Brawijaya University](https://www.ub.ac.id/).
 
 ---
 ### My Services:
 I also providing these services  for you, your team, or your company to accelerate your product digitalization through mobile first solution. 
-- 🤖 Native Android Apps Development with Kotlin + Jetpack Compose
--  Native iOS Apps Development with Swift + SwiftUI
+- 🤖 Native Android Apps Development with Kotlin, XML, and Jetpack Compose
+-  Native iOS Apps Development with Swift and SwiftUI
 - 📱 Multiplatform Apps Development with KMP + CMP
 - 🎓 Mobile Apps Development Bootcamp
 - 🧐 Live Code Review Session (Kotlin, Swift)
@@ -28,8 +28,8 @@ I also providing these services  for you, your team, or your company to accelera
 📨 Message me via one of these platforms and discuss further:
 <div>
   <a href="https://wa.me/6285717788177" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" title="WhatsApp" alt="WhatsApp" width="40" height="40"/></a>&nbsp;
-  <a href="https://calendly.com/steven-stevenlewi/30min" target="_blank"><img src="https://i2.wp.com/miro.medium.com/max/2400/1*Ozlc9YSkQHIhK0WCJuAIQA.png" title="Calendly" alt="Calendly" width="40" height="40"/></a>&nbsp;
   <a href="mailto:me@stevenlewi.id" target="_blank"><img src="https://github.com/user-attachments/assets/e2ca42b2-c74c-4160-af44-8094a7aa0941" title="Email" alt="Email" width="40" height="40"/></a>&nbsp;
+  <a href="https://calendly.com/steven-stevenlewi/30min" target="_blank"><img src="https://i2.wp.com/miro.medium.com/max/2400/1*Ozlc9YSkQHIhK0WCJuAIQA.png" title="Calendly" alt="Calendly" width="40" height="40"/></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/~014731d004d3bfa02a?mp_source=share" target="_blank"><img src="https://github.com/user-attachments/assets/fb7d64ea-349a-494e-9704-ea010b99212a" title="Upwork" alt="Upwork" width="40" height="40"/></a>&nbsp;
   <a href="https://www.fiverr.com/fenlis_project?public_mode=true" target="_blank"><img src="https://img.icons8.com/color/512/fiverr.png" title="Fiverr" alt="Fiverr" width="40" height="40"/></a>&nbsp;
 </div>
@@ -37,21 +37,20 @@ I also providing these services  for you, your team, or your company to accelera
 ---
 ### Programming & Scripting Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 ### Tools & Tech Stack:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
