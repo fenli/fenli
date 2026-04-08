@@ -12,8 +12,7 @@
 ### About Me:
 I am an agile software craftsman. I love writing clean code that easier to read and maintain by myself and my colleagues. Currently, I am focusing on native mobile apps development, both Android and iOS.
 - 🔭 **Current Learning and Development:** Multiplatform App development with Kotlin (KMP) and Swift (Swift for Android).
-- ✍️ **Writing (Blog):** [Personal Blog](https://blog.stevenlewi.id).
-- 📚 **Publication (Book):** [Branchless Development](https://leanpub.com/branchless-development/) (LeanPub, WIP).
+- 📚 **Publication:** [Mobile Engineering Design Pattern](https://medium.com/mobile-engineering-design-pattern) (Medium Publication), [Branchless Development](https://leanpub.com/branchless-development/) (LeanPub, WIP).
 - 👨‍🎓 **Education:** B.Eng., Electrical Engineering, [Brawijaya University](https://www.ub.ac.id/).
 
 ---
