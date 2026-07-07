@@ -69,5 +69,5 @@ If you do like my works, you can support what I am doing and it's really appreci
 
 ---
 ### My GitHub Stats:
-| <a href="https://github-readme-stats-fenli.vercel.app"><img align="center" src="https://github-readme-stats-fenli.vercel.app/api?username=fenli&count_private=true&show_icons=true&theme=graywhite&hide_border=true" alt="Steve's github stats" /></a> | <a href="https://github-readme-stats-fenli.vercel.app"><img align="center" src="https://github-readme-stats-fenli.vercel.app/api/top-langs/?username=fenli&layout=compact&theme=graywhite&hide_border=true&exclude_repo=github-readme-stats,vc-embed" /></a> |
+| <img align="center" src="./profile/stats.svg" alt="Steve's github stats" /> | <img align="center" src="./profile/top-langs.svg" /> |
 | ------------- | ------------- |
