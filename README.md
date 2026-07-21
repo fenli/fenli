@@ -1,7 +1,6 @@
 <h2 align="left">Hi there, I'm Steve <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/stevenlewi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/in-stevenlewi-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://kotlinxswift.substack.com/" target="_blank"><img alt="Substack" src="https://img.shields.io/badge/substack-KotlinxSwift-orange?logo=substack&logoColor=white"></a>
   <a href="https://medium.com/@fenli" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-@fenli-darkgreen?logo=medium&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=fenli&label=Profile%20views&color=yellow" alt="Profile views" />
   <img src="https://img.shields.io/github/stars/fenli?style=badge&label=Stars&logo=github&color=orange" alt="GitHub Stars" />
