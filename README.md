@@ -2,7 +2,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/stevenlewi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/in-stevenlewi-blue?logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@fenli" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-@fenli-darkgreen?logo=medium&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=fenli&label=Profile%20views&color=yellow" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fenli&label=Views&color=yellow" alt="Profile views" />
   <img src="https://img.shields.io/github/stars/fenli?style=badge&label=Stars&logo=github&color=orange" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/fenli?style=badge&label=Followers&logo=github" alt="GitHub followers" />
 </p>
